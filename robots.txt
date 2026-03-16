@@ -1,0 +1,18 @@
+User-Agent: GoogleBot
+Disallow: /registration?file_id=*
+Disallow: /*?ref=*
+Disallow: /student/award-contest?id=*
+Disallow: /site/close
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.gif
+Allow: *.png
+Allow: /css/*
+Allow: /js/*
+
+User-Agent: *
+Disallow: /registration?file_id=*
+Disallow: /*?ref=*
+Disallow: /student/award-contest?id=*
+Disallow: /site/close
+Sitemap: https://naurok.com.ua/sitemap-list.xml
